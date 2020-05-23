@@ -1,0 +1,32 @@
+{
+  "name": "redux-short",
+  "version": "1.0.0",
+  "description": "Short, optimized and convenient connection of the component to redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uncodegem/redux-connect.git"
+  },
+  "keywords": [
+    "redux",
+    "action",
+    "saga",
+    "react",
+    "mobx",
+    "babel",
+    "store",
+    "react-render"
+  ],
+  "author": "uncodegem",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uncodegem/redux-connect/issues"
+  },
+  "homepage": "https://github.com/uncodegem/redux-connect#readme",
+  "dependencies": {
+    "react-redux": "^7.2.0"
+  }
+}
