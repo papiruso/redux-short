@@ -1,6 +1,6 @@
 {
   "name": "redux-short",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Short, optimized and convenient connection of the component to redux",
   "main": "index.js",
   "scripts": {
