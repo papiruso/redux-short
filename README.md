@@ -8,7 +8,9 @@
 
 
 <h2>Connect reducer store to component</h2>
+
 ```jsx
+
 import React from 'react';
 import reduxShort from 'redux-short';
 
@@ -28,7 +30,9 @@ export default reduxShort(['user'])(Profile);
 ```
 
 <h2>Connect reducer store and action  to component</h2>
+
 ```jsx
+
 import React from 'react';
 import reduxShort from 'redux-short';
 import { getUserByid } from '../action/userAction';
@@ -50,4 +54,5 @@ class Profile extends React.Component {
 }
 
 export default reduxShort(['user'], { getUserByid })(Profile);
+
 ```
