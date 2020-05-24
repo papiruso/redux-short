@@ -56,3 +56,5 @@ class Profile extends React.Component {
 export default reduxShort(['user'], { getUserByid })(Profile);
 
 ```
+
+<strong>I accept a logical change request</strong>
