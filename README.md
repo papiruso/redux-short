@@ -8,7 +8,9 @@
 
 
 <h2>Connect reducer store to component</h2>
+
 ```jsx
+
 import React from 'react';
 import reduxShort from 'redux-short';
 
